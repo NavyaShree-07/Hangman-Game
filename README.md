@@ -22,6 +22,10 @@ The game includes words from:
 - Python
 - Random module
 
+## 👩‍💻 Author
+**NavyaShree-07**
+⭐ If you like this project, feel free to give it a star!
+
 ## ▶️ How to Run
 1. Make sure Python is installed.
 2. Download or clone this repository.
@@ -30,6 +34,3 @@ The game includes words from:
 
 ```bash
 python hangman.py
-## 👩‍💻 Author
-**NavyaShree-07**
-⭐ If you like this project, feel free to give it a star!
